@@ -51,6 +51,4 @@ fn main() {
     let output_file = &args[2];
 
     encorder(input_file, output_file);
-
-
 }
